@@ -1,0 +1,20 @@
+=============== Feb 13, 2019 (CST) ===============
+16:14:09.295046 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:14:09.296194 db@open opening
+16:14:09.298741 version@stat F·[] S·0B[] Sc·[]
+16:14:09.299274 db@janitor F·2 G·0
+16:14:09.299308 db@open done T·3.085346ms
+16:14:18.017015 db@close closing
+16:14:18.017349 db@close done T·331.678µs
+=============== Feb 13, 2019 (CST) ===============
+16:14:30.309703 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:14:30.310027 version@stat F·[] S·0B[] Sc·[]
+16:14:30.310113 db@open opening
+16:14:30.310322 journal@recovery F·1
+16:14:30.314096 journal@recovery recovering @1
+16:14:30.315555 memdb@flush created L0@2 N·145 S·4KiB "n:\x00..ail,v114":"version,v1"
+16:14:30.317804 version@stat F·[1] S·4KiB[4KiB] Sc·[0.25]
+16:14:30.319547 db@janitor F·3 G·0
+16:14:30.319580 db@open done T·9.433392ms
+16:19:14.058388 db@close closing
+16:19:14.058534 db@close done T·143.408µs

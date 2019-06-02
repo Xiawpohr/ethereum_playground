@@ -1,0 +1,7 @@
+
+admin.nodeInfo
+admin.peers
+miner.start()
+miner.stop()
+eth.blockNumber
+eth.getBlock(3)
